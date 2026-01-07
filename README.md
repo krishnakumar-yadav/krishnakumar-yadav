@@ -4,7 +4,6 @@
 Aspiring Data Analyst with hands-on experience in **SQL, Excel, and Power BI**.  
 I focus on cleaning data, finding insights, and presenting results in a clear and simple way for non-technical users.
 
----
 
 ## 🔹 Skills
 - **SQL**: Joins, Subqueries, Aggregations, Functions  
@@ -13,7 +12,7 @@ I focus on cleaning data, finding insights, and presenting results in a clear an
 - **Python**: Basics for Data Analysis  
 - **Tools**: Git, GitHub
 
----
+
 
 ## 🔹 Projects
 ### 📊 IPL Players Performance Analysis  
@@ -21,14 +20,14 @@ I focus on cleaning data, finding insights, and presenting results in a clear an
 - Created insights using SQL and Excel  
 - Built simple dashboards in Power BI to explain player performance  
 
----
+
 
 ## 🔹 What I’m Currently Learning
 - Advanced SQL queries  
 - Power BI DAX  
 - Python for Data Analytics  
 
----
+
 
 ## 🔹 Connect with Me
 - GitHub: https://github.com/krishnakumar-yadav  
