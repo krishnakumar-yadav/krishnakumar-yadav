@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**krishnakumar-yadav/krishnakumar-yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Krishnakumar Yadav 👋
 
-Here are some ideas to get you started:
+Aspiring Data Analyst with hands-on experience in **SQL, Excel, and Power BI**.  
+I focus on cleaning data, finding insights, and presenting results in a clear and simple way for non-technical users.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔹 Skills
+- **SQL**: Joins, Subqueries, Aggregations, Functions  
+- **Excel**: Advanced formulas, Pivot Tables, Data Cleaning  
+- **Power BI**: Interactive Dashboards, Data Modeling (Basics)  
+- **Python**: Basics for Data Analysis  
+- **Tools**: Git, GitHub
+
+---
+
+## 🔹 Projects
+### 📊 IPL Players Performance Analysis  
+- Cleaned and analyzed IPL player data  
+- Created insights using SQL and Excel  
+- Built simple dashboards in Power BI to explain player performance  
+
+---
+
+## 🔹 What I’m Currently Learning
+- Advanced SQL queries  
+- Power BI DAX  
+- Python for Data Analytics  
+
+---
+
+## 🔹 Connect with Me
+- GitHub: https://github.com/krishnakumar-yadav  
+- LinkedIn: https://www.linkedin.com/in/krishnakumar-yadav
