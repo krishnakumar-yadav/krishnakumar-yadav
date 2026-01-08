@@ -14,13 +14,6 @@ I focus on cleaning data, finding insights, and presenting results in a clear an
 
 
 
-## 🔹 Projects
-### 📊 IPL Players Performance Analysis  
-- Cleaned and analyzed IPL player data  
-- Created insights using SQL and Excel  
-- Built simple dashboards in Power BI to explain player performance  
-
-
 
 ## 🔹 What I’m Currently Learning
 - Advanced SQL queries  
