@@ -1,18 +1,10 @@
 
 # Krishnakumar Yadav 👋
 
-<h1 align="center">Krishna Yadav</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=1F6FEB&center=true&vCenter=true&width=600&lines=Convert+Raw+Data+Into+Insights;Data+Driven+Decision+Making;Turning+Numbers+Into+Stories" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&pause=1200&color=1F6FEB&center=true&vCenter=true&width=680&lines=Convert+Raw+Data+Into+Insights;Turning+Numbers+Into+Stories;Excel+%7C+SQL+%7C+Power+BI+%7C+Python" />
 </p>
 
-<h2 style="color:#1F6FEB;">Skills</h2>
-
-![SQL](https://img.shields.io/badge/SQL-1F6FEB?style=flat&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-1F6FEB?style=flat&logo=microsoft-excel&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power%20BI-1F6FEB?style=flat&logo=power-bi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1F6FEB?style=flat&logo=python&logoColor=white)
 
 
 Aspiring Data Analyst with hands-on experience in **SQL, Excel, and Power BI**.  
