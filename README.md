@@ -2,7 +2,7 @@
 # Krishnakumar Yadav 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=36&weight=1000&pause=1200&color=1F6FEB&center=true&vCenter=true&width=900&lines=Convert+Raw+Data+Into+Insights;Turning+Numbers+Into+Stories;Excel+%7C+SQL+%7C+Power+BI+%7C+Python" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=46&weight=1500&pause=1200&color=1F6FEB&center=true&vCenter=true&width=900&lines=Convert+Raw+Data+Into+Insights;Turning+Numbers+Into+Stories;Excel+%7C+SQL+%7C+Power+BI+%7C+Python" />
 </p>
 
 
