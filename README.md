@@ -28,12 +28,6 @@ I focus on cleaning data, finding insights, and presenting results in a clear an
 - Python for Data Analytics  
 
 
-## 🔹 Content & Community
-I also create short-form content around cricket storytelling and sports analysis.
-
-- 📸 Instagram: https://www.instagram.com/crickett_mind/reels
-- ▶️ YouTube: https://youtube.com/@crickett_mind?si=Z_MFvibFd9bKpy3P
-- 📘 Facebook: https://www.facebook.com/share/1Ai8DRpGh5/
 
 ## 🔹 Connect with Me
 - GitHub: https://github.com/krishnakumar-yadav  
