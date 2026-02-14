@@ -25,7 +25,7 @@ I focus on cleaning data, finding insights, and presenting results in a clear an
 ## 🔹 What I’m Currently Learning
 - Advanced SQL queries  
 - Power BI DAX  
-- Python for Data Analytics  
+- Python for Data Analysis  
 
 
 
